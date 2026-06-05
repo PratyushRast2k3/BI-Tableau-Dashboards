@@ -7,7 +7,6 @@ Two Tableau BI dashboards — SDG 12 coffee sustainability (Starbucks) &amp; SDG
 ![University](https://img.shields.io/badge/University%20of-Glasgow-003865?style=flat)
 ![Subject](https://img.shields.io/badge/MGT5491-Business%20Intelligence-2E7D32?style=flat)
 ![SDG](https://img.shields.io/badge/UN%20SDG-3%20%7C%206%20%7C%2012-0099CD?style=flat)
-![Grade](https://img.shields.io/badge/Grades-A4%3A19%20%7C%20B1%3A17-2E7D32?style=flat)
 
 > **MSc Business Analytics · MGT5491 Business Intelligence Practice · University of Glasgow · 2026**
 
