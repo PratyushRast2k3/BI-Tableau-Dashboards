@@ -21,8 +21,6 @@ Two end-to-end business intelligence projects built in **Tableau Desktop**, anal
 
 ## Dashboard 1 — Global Coffee Sustainability (SDG 12)
 
-**Grade: A4:19 · University of Glasgow**
-
 ### Business Problem
 
 Starbucks sources coffee from over 30 countries. With global coffee production growing 193% since 1961 and supply concentrated in just a few regions, the company faces mounting sustainability risks — deforestation, yield inefficiency, and supply chain concentration. This dashboard provides a BI framework for Starbucks to align its sourcing strategy with **SDG 12 (Responsible Consumption & Production)**.
@@ -67,7 +65,6 @@ Starbucks sources coffee from over 30 countries. With global coffee production g
 
 ## Dashboard 2 — Global Water & Health Analytics (SDG 3 & 6)
 
-**Grade: B1:17 · University of Glasgow**
 
 ### Business Problem
 
