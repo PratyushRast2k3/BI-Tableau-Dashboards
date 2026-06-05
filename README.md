@@ -179,9 +179,6 @@ Both analyses follow responsible BI practice:
 
 ---
 
-
----
-
 ## Academic References
 
 - FAOSTAT (2024). Crops and Livestock Production Database. [fao.org/faostat](https://www.fao.org/faostat/)
