@@ -179,16 +179,6 @@ Both analyses follow responsible BI practice:
 
 ---
 
-## Files in This Repo
-
-```
-BI-Tableau-Dashboards/
-│
-├── README.md
-├── Report_Coffee_SDG12_Starbucks.pdf       ← Full report (A4:19)
-├── Report_Water_SDG3_6_Unilever.pdf        ← Full report (B1:17)
-└── MGT5491_ASSIGNMENT1_3169652R.twb        ← Tableau workbook file
-```
 
 ---
 
